@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gülnaz Şeker  
 
-🎓 Computer Engineering student  
+🎓 Computer Engineering   
 ⚡ Interested in embedded systems, robotics, computer vision, and AI  
 🚀 I enjoy building real-world projects that combine hardware and software  
 
